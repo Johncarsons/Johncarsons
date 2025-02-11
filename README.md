@@ -41,14 +41,15 @@ I love building efficient, scalable, and user-friendly applications.
 ## 📂 Projects 📂
 Here are some of my latest projects:
 
-1. **[Project Name](https://github.com/your-username/project-name)** - Short description of what it does.
-2. **[Project Name](https://github.com/your-username/project-name)** - Short description of what it does.
-3. **[Project Name](https://github.com/your-username/project-name)** - Short description of what it does.
+1. **[KK & Co Advocates](https://github.com/Johncarsons/kkadvocates)** - This is a website for a law firm, from here one can book an appointment, contact the nearest ofice and even inquire about the Charges among others .
+2. **[Prestige Voyage](https://github.com/your-username/project-name)** - This is a website for a car sales company. From the website one can order or even purchace a Vehicle.
 
 ## 📫 Contact Me 📫
 - **Email**: thejohncarsons@gmail.com
-- **Instagram**: [instagram.com/yourusername](https://instagram.com/jokaki.carson_)
-- 
+- **Instagram**: [instagram.com/jokaki.carson_](https://instagram.com/jokaki.carson_)
+- **Phone Number**: +254 711 685 266
+
+
 
 ⭐️ Feel free to check out my repositories and contribute! ⭐️
 <br>
