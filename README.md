@@ -51,4 +51,5 @@ Here are some of my latest projects:
 - 
 
 ⭐️ Feel free to check out my repositories and contribute! ⭐️
+<br>
 🙂 Don't feel shy to correct me where I'm wrong. 🙂
