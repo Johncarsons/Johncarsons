@@ -1,8 +1,7 @@
 
-# My Protfolio
-
-Hi! I'm John Carson
+# Hi! I'm John Carson
 I'm a  Kenyan 🇰🇪**Software Developer** specializing in **web and mobile application development**. 
+<br>
 I love building efficient, scalable, and user-friendly applications.
 
 ## 🚀 About Me 🚀
@@ -10,7 +9,7 @@ I love building efficient, scalable, and user-friendly applications.
 - 🔹 Experienced in frontend and backend development
 - 🔹 Always learning and exploring new technologies in the field I'm in.
 
-## 🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools 🛠️
 
 ### 💡 Skills & Technologies  💡
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
