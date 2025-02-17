@@ -1,4 +1,3 @@
-
 # Hi! I'm John Carson
 I'm a  Kenyan 🇰🇪**Software Developer** specializing in **web and mobile application development**. 
 <br>
@@ -20,10 +19,11 @@ I love building efficient, scalable, and user-friendly applications.
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 
 ### 🌐 Web Development  🌐
 - **Frontend**: HTML, CSS, JavaScript, React, Next.js
-- **Backend**: Node.js, Django, Flask
+- **Backend**: Node.js, Django, Flask, Spring Boot
 - **Databases**: MongoDB, PostgreSQL, MySQL
 - **Styling**: Tailwind CSS, Bootstrap, SASS
 
@@ -40,15 +40,13 @@ I love building efficient, scalable, and user-friendly applications.
 ## 📂 Projects 📂
 Here are some of my latest projects:
 
-1. **[KK & Co Advocates](https://github.com/Johncarsons/kkadvocates)** - This is a website for a law firm, from here one can book an appointment, contact the nearest ofice and even inquire about the Charges among others .
-2. **[Prestige Voyage](https://github.com/your-username/project-name)** - This is a website for a car sales company. From the website one can order or even purchace a Vehicle.
+1. **[KK & Co Advocates](https://github.com/Johncarsons/kkadvocates)** - This is a website for a law firm, from here one can book an appointment, contact the nearest office and even inquire about the Charges among others.
+2. **[Prestige Voyage](https://github.com/your-username/project-name)** - This is a website for a car sales company. From the website one can order or even purchase a Vehicle.
 
 ## 📫 Contact Me 📫
 - **Email**: thejohncarsons@gmail.com
 - **Instagram**: [instagram.com/jokaki.carson_](https://instagram.com/jokaki.carson_)
 - **Phone Number**: +254 711 685 266
-
-
 
 ⭐️ Feel free to check out my repositories and contribute! ⭐️
 <br>
